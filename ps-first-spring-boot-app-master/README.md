@@ -1,2 +1,1 @@
-# Pluralsight Spring Boot Application Resources
-## Author: Dan Bunker
+# Conference App DataBase Resources
